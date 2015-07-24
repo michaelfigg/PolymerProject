@@ -1,0 +1,19 @@
+{
+  "name": "PolymerProject",
+  "version": "0.0.0",
+  "homepage": "https://github.com/michaelfigg/PolymerProject",
+  "authors": [
+    "Michael Figg <michael.figg@stockinthechannel.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "polymer": "Polymer/polymer#~1.0.8"
+  }
+}
